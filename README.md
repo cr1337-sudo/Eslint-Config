@@ -14,3 +14,7 @@ npm i eslint-plugin-simple-import-sort -D
 Settings.JSON: <br>
 "editor.codeActionsOnSave": {"source.fixAll.eslint": true}
 
+# VSC Dependencias
+Eslint <br>
+CodeLens
+
